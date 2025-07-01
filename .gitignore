@@ -1,5 +1,6 @@
 api_env/
 key.txt
+api.http
 core/migrations/0*
 core/__pycache__/*
 core/migrations/__pycache__/*
